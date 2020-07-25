@@ -1,0 +1,27 @@
+﻿Build started 5/8/2015 11:45:14 AM.
+     1>Project "F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\proj.win32\HelloCpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\proj.win32\..\..\..\..\cocos2dx" /I"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\proj.win32\..\..\..\..\cocos2dx\include" /I"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\proj.win32\..\..\..\..\cocos2dx\kazmath\include" /I"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\proj.win32\..\..\..\..\cocos2dx\platform\win32" /I"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\proj.win32\..\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I..\Classes /I"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\proj.win32\..\..\..\..\CocosDenshion\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\AppDelegate.cpp ..\Classes\Sleding.cpp
+         Sleding.cpp
+     1>f:\computer\fromkoast\cc2d\cocos2d-x-2.2.5\cocos2dx\particle_nodes\ccparticlesystemquad.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>f:\computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\cpp\hellocpp\classes\sleding.cpp(151): warning C4101: 'chr_score' : unreferenced local variable
+     1>f:\computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\cpp\hellocpp\classes\sleding.cpp(893): warning C4101: 'scale' : unreferenced local variable
+     1>f:\computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\cpp\hellocpp\classes\sleding.cpp(892): warning C4101: 'downdis' : unreferenced local variable
+     1>f:\computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\cpp\hellocpp\classes\sleding.cpp(895): warning C4101: 'angle' : unreferenced local variable
+     1>f:\computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\cpp\hellocpp\classes\sleding.cpp(892): warning C4101: 'updis' : unreferenced local variable
+         AppDelegate.cpp
+     1>f:\computer\fromkoast\cc2d\cocos2d-x-2.2.5\cocos2dx\particle_nodes\ccparticlesystemquad.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         Generating Code...
+     1>f:\computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\cpp\hellocpp\classes\sleding.cpp(188): warning C4715: 'Leveledit::init' : not all control paths return a value
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\Debug.win32\HelloCpp.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\Debug.win32\\" opengl32.lib glew32.lib libcocos2d.lib libBox2D.lib libCocosDenshion.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\Debug.win32\HelloCpp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\Debug.win32\HelloCpp.lib" /MACHINE:X86 /SAFESEH Debug.win32\AppDelegate.obj
+         Debug.win32\Sleding.obj
+         Debug.win32\main.obj
+         "F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\Debug.win32\libcocos2d.lib"
+         "F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\Debug.win32\libCocosDenshion.lib"
+         HelloCpp.vcxproj -> F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\Debug.win32\HelloCpp.exe
+     1>Done Building Project "F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\proj.win32\HelloCpp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.97

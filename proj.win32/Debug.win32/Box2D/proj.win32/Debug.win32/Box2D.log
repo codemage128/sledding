@@ -1,0 +1,9 @@
+﻿Build started 2015/3/18 오후 07:19:02.
+     1>Project "F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\external\Box2D\proj.win32\Box2D.vcxproj" on node 4 (Build target(s)).
+     1>Lib:
+         Box2D.vcxproj -> F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\Debug.win32\libBox2D.lib
+     1>Done Building Project "F:\Computer\fromkoast\cc2d\cocos2d-x-2.2.5\external\Box2D\proj.win32\Box2D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20
